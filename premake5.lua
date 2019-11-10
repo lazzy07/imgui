@@ -20,7 +20,7 @@ project "ImGui"
 	}
 
 	filter "system:windows"
-		systemversion "latest"
+		systemversion "10.0.17763.0"
 		cppdialect "C++17"
 		staticruntime "On"
 
